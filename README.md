@@ -1,5 +1,7 @@
-### Hi there 👋
-
+     __      __   _                  _ 
+     \ \    / /__| |__ ___ _ __  ___| |
+      \ \/\/ / -_) / _/ _ \ '  \/ -_)_|
+       \_/\_/\___|_\__\___/_|_|_\___(_)
 <!--
 **DovahBot/DovahBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
